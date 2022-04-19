@@ -10,6 +10,6 @@ London.
 
 🧪 Test-Driven Developer
 
-⚡️ Currently learning JavaScript and Ruby
+⚡️ Currently learning JavaScript, Ruby and React
 
 📄 Check out my [CV](https://github.com/Dash1704/CV.git)
