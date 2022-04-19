@@ -12,4 +12,4 @@ London.
 
 ⚡️ Currently learning JavaScript and Ruby
 
-📄 Check out my CV https://github.com/Dash1704/CV.git
+📄 Check out my [CV](https://github.com/Dash1704/CV.git)
